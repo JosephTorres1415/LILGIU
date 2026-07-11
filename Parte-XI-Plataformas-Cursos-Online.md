@@ -165,12 +165,3 @@
 
 ---
 
-## Qué sigue
-
-Con esto cerramos la Parte XI. Queda pendiente el **Bloque 4 de la Parte V** (Barismo, Food Styling, Fotografía Gastronómica, Idiomas) para cerrar del todo las certificaciones, y las Partes VI, VII, X y XII siguen abiertas en la estructura general.
-
-¿Continuamos con el Bloque 4 de la Parte V, o prefieres avanzar con otra parte?
-
----
-
-*Documento vivo — Parte XI del Roadmap Maestro.*
