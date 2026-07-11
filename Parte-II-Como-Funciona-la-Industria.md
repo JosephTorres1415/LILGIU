@@ -94,10 +94,4 @@ Desarrollaremos el proceso de postulación completo, naviera por naviera, en la 
 
 ---
 
-## 6. Qué sigue
 
-Con la Parte I (marco conceptual) y esta Parte II (cómo funciona la industria por dentro) ya tienes el contexto completo antes de entrar a lo específico. La **Parte III** aplica todo esto a tu caso real: Blue Ribbon International Cusco, ciclo por ciclo, con investigación verificada sobre la institución.
-
----
-
-*Documento vivo — Parte 2 de 12 del Roadmap Maestro. Próxima entrega: Parte III (Blue Ribbon Cusco).*
