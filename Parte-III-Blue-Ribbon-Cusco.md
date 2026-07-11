@@ -87,10 +87,4 @@ Trata esta tabla como una **hipótesis de trabajo**, no como un hecho confirmado
 
 ---
 
-## 6. Qué sigue
 
-La **Parte IV** construirá el cronograma semestre por semestre con acciones concretas (libros, certificaciones externas, concursos, portafolio). Se hará mejor y más preciso en cuanto tengas la malla oficial — si quieres, podemos avanzar ya con la versión basada en el modelo de referencia y ajustarla después.
-
----
-
-*Documento vivo — Parte 3 de 12 del Roadmap Maestro. Próxima entrega: Parte IV.*
