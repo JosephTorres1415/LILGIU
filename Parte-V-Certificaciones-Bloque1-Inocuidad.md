@@ -82,12 +82,4 @@
 
 ---
 
-## Qué sigue
 
-El siguiente bloque de la Parte V cubrirá las certificaciones **técnicas de pastelería** (Pastelería Francesa, Chocolatería, Panadería, Heladería, Sugar Art, Decoración, Carving), con el mismo nivel de detalle y datos de costo verificados.
-
-¿Continuamos con ese bloque?
-
----
-
-*Documento vivo — Parte 5 (Bloque 1 de varios) del Roadmap Maestro.*
