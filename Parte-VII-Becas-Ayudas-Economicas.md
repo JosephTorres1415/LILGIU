@@ -189,10 +189,231 @@ No es una beca — es una vía de **estudios técnicos pagados** en Francia, rel
 
 ---
 
-## Qué sigue
 
-Con esto queda completa la Parte VII. Sigue pendiente el **Bloque 4 de la Parte V** (Barismo, Food Styling, Fotografía Gastronómica, Idiomas), y las Partes I, II, III, IV, VI, VIII (ya completa en Word), X y XII.
 
----
 
-*Documento vivo — Parte VII del Roadmap Maestro. Datos de becas y convocatorias 2026, referenciales — verifica siempre contra la fuente oficial antes de postular, ya que fechas y montos cambian cada convocatoria.*
+
+
+
+# Los créditos educativos del Estado peruano 
+---------------------------------------
+
+
+son probablemente el programa más desconocido de PRONABEC. La mayoría de personas conoce Beca 18, pero muy pocas saben que existe la posibilidad de que el Estado te preste el dinero para estudiar, con condiciones generalmente mucho más favorables que las de un banco.
+
+Es importante entender que un crédito educativo no es una beca.
+
+Beca: el Estado paga tus estudios y, si cumples las condiciones del programa, no devuelves ese dinero.
+Crédito educativo: el Estado financia tus estudios, pero posteriormente debes devolver el préstamo bajo las condiciones establecidas.
+¿Qué es Crédito Pro?
+
+Actualmente, el principal programa de crédito educativo de PRONABEC es Crédito Pro. Su objetivo es que estudiantes con buen rendimiento académico no abandonen sus estudios por problemas económicos.
+
+
+---------------------------------------
+La filosofía del programa es sencilla:
+---------------------------------------
+
+Hoy no puedes pagar tu carrera
+
+↓
+
+El Estado financia tus estudios
+
+↓
+
+Terminas tu carrera
+
+↓
+
+Consigues empleo
+
+↓
+
+Devuelves el préstamo gradualmente
+
+Es un mecanismo para que la falta de dinero no interrumpa tu formación.
+
+
+
+
+---------------------------------------
+¿Qué puede financiar?
+---------------------------------------
+
+Una de las ventajas de Crédito Pro es que no se limita únicamente a las pensiones. El estudiante puede solicitar financiamiento para distintos conceptos, entre ellos:
+
+Costos académicos
+Matrícula.
+Pensiones.
+Derechos de titulación.
+Costos no académicos
+Alimentación.
+Movilidad local.
+Útiles de estudio.
+Computadora portátil (cuando corresponda).
+
+Esto significa que el préstamo puede cubrir una parte importante del costo real de estudiar.
+
+
+
+
+---------------------------------------
+¿Quién puede postular?
+---------------------------------------
+
+Los requisitos cambian ligeramente en cada convocatoria, pero normalmente buscan estudiantes que cumplan condiciones como:
+
+Nacionalidad peruana.
+Estar matriculado o haber sido admitido en una institución de educación superior elegible (universidad o instituto, público o privado).
+Tener buen rendimiento académico.
+Demostrar insuficiencia de recursos económicos para continuar los estudios.
+
+
+
+
+---------------------------------------
+¿Qué significa "buen rendimiento académico"?
+---------------------------------------
+
+No basta con querer estudiar.
+
+PRONABEC busca invertir en personas que demuestren compromiso con su formación.
+
+Según la convocatoria, se evalúan aspectos como:
+
+promedio académico;
+ubicación dentro de la promoción;
+continuidad de los estudios.
+¿Qué significa "insuficiencia económica"?
+
+PRONABEC realiza una evaluación socioeconómica.
+
+Puede considerar información como:
+
+ingresos familiares;
+clasificación del SISFOH, cuando corresponda;
+composición del hogar;
+otros documentos solicitados en las bases.
+
+No significa necesariamente estar en pobreza extrema, pero sí demostrar que existe una dificultad económica real para continuar los estudios.
+
+
+
+
+
+---------------------------------------
+¿Necesito un garante?
+---------------------------------------
+
+Sí.
+
+Este es uno de los aspectos más importantes del crédito.
+
+Debes presentar un garante.
+
+¿Qué hace un garante?
+
+Es la persona que responde por la deuda si el beneficiario incumple sus pagos.
+
+Normalmente suele ser:
+
+padre;
+madre;
+familiar cercano;
+otra persona que cumpla los requisitos establecidos.
+
+Esto brinda mayor seguridad al programa de financiamiento.
+
+
+
+
+
+---------------------------------------
+¿Cuándo empiezo a pagar?
+---------------------------------------
+
+Una diferencia importante frente a un préstamo comercial es que no comienzas a devolver el capital mientras estás estudiando.
+
+El esquema general es:
+
+Año 1
+
+↓
+
+Año 2
+
+↓
+
+Año 3
+
+↓
+
+Te gradúas
+
+↓
+
+Periodo de gracia (si aplica)
+
+↓
+
+Empiezas a devolver el préstamo
+
+En Crédito Pro, la devolución del capital inicia después del egreso o al finalizar el período de gracia que corresponda.
+
+
+
+
+
+---------------------------------------
+¿Tiene intereses?
+---------------------------------------
+
+Sí.
+
+Como cualquier préstamo, genera intereses.
+
+Sin embargo, una de sus ventajas es que la tasa suele ser considerablemente más baja que la de muchos créditos educativos comerciales. Por ejemplo, la convocatoria Crédito Pro 2025 estableció una tasa compensatoria efectiva anual de 4.04 %, además del fondo de desgravamen.
+
+
+
+
+---------------------------------------
+¿Cuánto tiempo tengo para devolver el dinero?
+---------------------------------------
+
+Depende de la convocatoria.
+
+Como referencia, en Crédito Pro 2025 el plazo podía ser de hasta 7 años para devolver el préstamo.
+
+
+
+
+
+---------------------------------------
+¿Qué obligaciones tienes?
+---------------------------------------
+
+Al aceptar el crédito, asumes un compromiso formal.
+
+Entre tus responsabilidades están:
+
+usar el financiamiento para los fines aprobados;
+mantener los requisitos establecidos durante el programa;
+cumplir con las obligaciones de pago cuando corresponda;
+informar cambios relevantes si así lo exigen las bases.
+
+
+
+
+---------------------------------------
+¿Qué pasa si no pago?
+---------------------------------------
+
+Al ser un préstamo del Estado, el incumplimiento puede generar consecuencias similares a otras deudas:
+
+intereses moratorios;
+procesos de cobranza;
+afectación de tu historial crediticio u otras medidas previstas en el contrato.
+
+Por eso debe verse como una inversión en tu educación y no como dinero gratuito.
