@@ -100,12 +100,4 @@
 
 ---
 
-## Qué sigue
 
-El bloque final de la Parte V cubrirá las certificaciones **creativas y de comunicación** (Barismo, Food Styling, Fotografía Gastronómica, Idiomas) — con eso cerramos las 24 certificaciones de tu lista original.
-
-¿Continuamos con ese último bloque?
-
----
-
-*Documento vivo — Parte 5 (Bloque 3 de varios) del Roadmap Maestro.*
