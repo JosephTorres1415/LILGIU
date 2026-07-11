@@ -98,9 +98,7 @@ Al igual que la panadería, el carving **no tiene una certificación internacion
 
 ---
 
-## Qué sigue
 
-El siguiente bloque cubrirá las certificaciones **de gestión y negocio** (Food Cost, Excel, Power BI, Marketing, Administración, Liderazgo, Emprendimiento, Atención al Cliente) — el conjunto de competencias que te permitirá ascender de "cocinero técnico" a "chef que gestiona una operación".
 
 ¿Continuamos con ese bloque?
 
