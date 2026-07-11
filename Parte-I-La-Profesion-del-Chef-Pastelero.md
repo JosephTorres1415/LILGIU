@@ -264,15 +264,3 @@ Este punto se conecta directamente con lo que planteamos en la sección 1.8 sobr
 **Cómo leer este mapa:** el "tronco clásico" (masas, cremas, montaje) es obligatorio para todas las ramas — no existe especialización posible sin ese cimiento, tal como se explicó en la sección 3.1. A partir de ahí, cada rama se desarrolla con un cuerpo de conocimiento propio, un mercado laboral propio y, frecuentemente, un tipo de personalidad y de estilo de trabajo distinto (algunas ramas exigen paciencia y precisión repetitiva, otras exigen creatividad artística explosiva, otras exigen lógica de negocio o de laboratorio). En la Parte IX vamos a cruzar este mapa de competencias con rutas profesionales concretas, para que puedas identificar —con datos, no con intuición— hacia qué combinación de ramas te conviene dirigir tu desarrollo dentro de Blue Ribbon Cusco.
 
 ---
-
-### Cierre de la Parte I — qué sigue
-
-Con esta parte ya tienes el marco conceptual completo: sabes de dónde viene el oficio, qué es exactamente y qué no es, cómo se divide internamente, dónde se trabaja en el mundo real y qué corrientes están vivas hoy en la industria.
-
-La **Parte II** tomará este marco y lo aplicará a una pregunta más práctica: **cómo funciona realmente la industria gastronómica por dentro** — qué espera un hotel, qué espera un restaurante Michelin, qué espera un crucero, y qué es lo que un instituto típicamente NO te enseña pero que vas a necesitar de todas formas.
-
-La **Parte III** aplicará todo esto, con investigación específica y verificada, a tu caso concreto: Blue Ribbon International Cusco, ciclo por ciclo.
-
----
-
-*Documento vivo — Parte 1 de 12 del Roadmap Maestro. Próxima entrega: Parte II.*
