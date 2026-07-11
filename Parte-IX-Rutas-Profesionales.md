@@ -241,8 +241,3 @@ Estas rutas no son excluyentes entre sí. La mayoría de chefs pasteleros combin
 
 ---
 
-## Qué sigue
-
-La Parte IX queda completa con las 16 rutas de tu lista original. Sigue pendiente el **Bloque 4 de la Parte V** (certificaciones creativas y de comunicación: Barismo, Food Styling, Fotografía Gastronómica, Idiomas) para cerrar el bloque de certificaciones, además de las Partes I, II, III, IV, VI, VII, X, XI y XII, que todavía no se han desarrollado como documentos.
-
-*Documento vivo — Parte IX del Roadmap Maestro. Cifras de mercado laboral 2026, referenciales — conviene verificarlas contra ofertas reales al momento de decidir.*
